@@ -1,4 +1,4 @@
-# Data Exploratory and Analysis Projects Portfolio
+# Data Analysis and Visualization Projects Portfolio
 
 ## Project 1: Data Analysis and predictions on Sales Dataset
 
